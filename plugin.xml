@@ -6,7 +6,7 @@
     <license>MIT</license>
     <keywords>cordova,device,geolocation,gps,bluetooth</keywords>
 
-    <dependency id="cordova-plugin-geolocation" spec="2.4.3"/>
+    <dependency id="cordova-plugin-geolocation" version="2.4.3"/>
 
     <platform name="android">
         <dependency id="cordova-plugin-bluetooth-serial" />
